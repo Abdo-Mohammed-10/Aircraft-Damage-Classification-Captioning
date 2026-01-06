@@ -5,7 +5,7 @@ This comprehensive Deep Learning project automates the inspection of aircraft su
 ## 🚀 Key Features
 
 ### 🔍 Damage Classification:
-        Uses a pre-trained VGG16 model (Transfer Learning) to accurately classify images as dent or crack.
+Uses a pre-trained VGG16 model (Transfer Learning) to accurately classify images as dent or crack.
 
 ### 📝 Automated Captioning:
 Integrates the Salesforce BLIP model to generate human-readable captions and summaries of the damage (e.g., "This is a detailed photo showing a dent on the fuselage").
